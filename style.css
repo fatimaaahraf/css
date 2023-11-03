@@ -1,5 +1,5 @@
 h1 { color: bisque;
-    background-color: brown;
+    background-color: rgb(165, 47, 47);
     
  } 
  h2 {
@@ -8,4 +8,8 @@ h1 { color: bisque;
 }
 p {
     color: blueviolet;
+}
+body{
+    font-family: 'Roboto', sans-serif;
+    background-color: rgb(197, 185, 171);
 }
